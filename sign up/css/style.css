@@ -1,0 +1,84 @@
+/* start body*/
+body
+    {
+        background-image: url("../photo/drink-drinking-female-1458671.jpg");
+         Background-size : cover;
+         height:700px;
+         background-repeat: no-repeat;
+           
+    }
+    
+      body h2
+    {
+     text-align:center;
+     font-size: 25px;
+     padding-top:30px;
+     background-color:rgb(230,255,238,0.4);
+     color: #cd7f32;
+    }
+    /*end body*/
+    /*start form*/
+    .form h2
+    {
+      color: black;
+    }
+    .form
+    {
+        width: 500px;
+        height:auto;
+        background: #fff;
+        overflow: hidden;
+        text-align: center;
+        position: absolute;
+        z-index: 15;
+         top: 15%;
+         left: 30%;
+         margin: -100px 0 0 -;
+         border-radius: 7%;
+       background: rgb(179, 255, 255,0.6);
+    }
+  
+    .form input
+    {
+        margin: 15px 1.2%;
+        margin-left:1.2%;
+        border-radius:7px;
+        border: 1px solid #808080	;
+   background: rgb(255, 255, 255,0.9);
+        text-align: center;
+        font-family: 'Ruslan Display', cursive;
+        width:270px;
+        height:40px;
+    }
+    .form .two input
+    {
+     width:70px;
+     height:25px;
+    }
+    .form .one input
+    {
+      width:20px;
+      padding-top:20px;
+      
+    }
+    .form h2
+    {
+        font-family: 'Ruslan Display', cursive;
+        padding-top: 10px;
+    }
+    .form .one button
+    {
+        background-color: #4CAF50;
+    border: none;
+    color: white;
+    padding: 10px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    margin: 4px 2px;
+    border-radius: 20%
+    }
+    /*end form*/
+    
+    

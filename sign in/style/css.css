@@ -1,0 +1,57 @@
+body
+{
+   background-image: url("../photo/pexels-photo-1458672.jpeg");
+   background-size: cover;
+}
+ 
+ h3
+ {
+    text-align: center;
+    font-size: 40px;
+    margin-top:30px;
+    color: #cd7f32;
+    background-color:rgb(230,255,238,0.4);
+ }
+
+.form
+{
+    
+        width: 500px;
+        height:300px;
+        background: #fff;
+        overflow: hidden;
+        text-align: center;
+        position: absolute;
+        z-index: 15;
+         top: 30%;
+         left: 30%;
+         margin: -100px 0 0 -;
+         border-radius: 7%;
+       background: rgb(230, 230, 255,0.6);
+    
+}
+ .form h3
+ {
+    font-size: 30px;
+    color: black;
+ }
+ .form input
+ {
+   width:335px;
+   height:30px;
+    margin-top:25px;
+        z-index: 15;
+         top: 30%;
+         left: 30%;
+         text-align: center;
+         border-radius:15px;
+    
+ }
+  .form button
+ {
+    margin-top: 15px;
+    width: 100;
+    height:45;
+    border-radius:  15px;
+    background-color: rgb(230,0,230,0.3);
+ }
